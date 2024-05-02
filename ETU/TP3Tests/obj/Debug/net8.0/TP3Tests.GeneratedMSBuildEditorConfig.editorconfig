@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP3Tests
-build_property.ProjectDir = C:\Cegep\DCF\420-W20-SF POO DFC\Travaux\TP3\TP3_MediaPlayer_H24\ETU\TP3Tests\
+build_property.ProjectDir = C:\Users\tarik\OneDrive\Documents\Cégep Sfoy\Cours Session 2\POO 1\TP3\ETU\TP3Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
